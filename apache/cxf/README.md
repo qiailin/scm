@@ -1,7 +1,5 @@
+Web Browsing of SVN
 
-
-Apache CXF 
-=====================================
 To browse via the web use the ViewVC interface:
 
 http://svn.apache.org/viewvc/cxf/trunk/
@@ -49,3 +47,5 @@ or
  
 
 git clone http://git.apache.org/cxf.git
+ 
+For committers/developers interested in using git for CXF trunk development, Apache has some documentation:
