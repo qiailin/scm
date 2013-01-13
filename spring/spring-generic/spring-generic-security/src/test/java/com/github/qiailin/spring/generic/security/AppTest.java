@@ -1,4 +1,4 @@
-package org.spring.generic.security;
+package com.github.qiailin.spring.generic.security;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

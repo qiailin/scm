@@ -14,13 +14,6 @@
 		<org.springframework.version>3.0.5.RELEASE</org.springframework.version>
 	</properties>
 
-
-	<scm>
-		<connection>scm:git:git@github.com:qiailin/scm.git</connection>
-		<url>scm:git:git@github.com:qiailin/scm.git</url>
-		<developerConnection>scm:git:git@github.com:qiailin/scm.git</developerConnection>
-	</scm>
-
 	<build>
 		<plugins>
 			<plugin>
