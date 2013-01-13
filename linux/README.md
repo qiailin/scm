@@ -244,3 +244,6 @@ ps –ef|grep svnserve
 如果显示如下，即为启动成功： 
 
 root  6941　　 1　0 15:07 ?　　00:00:00 svnserve -d --listen-port 9999 -r /opt/svn/svndata
+
+默认访问地址
+svn://192.168.0.168:9999/repos
